@@ -1712,10 +1712,13 @@ export default function App() {
               10%, 90% { opacity: 1; transform: translateY(0); }
               100% { opacity: 0; transform: translateY(-20px); }
             }
+<<<<<<< HEAD
             @keyframes fadeIn { /* 이 부분은 사용되지 않을 수 있지만 혹시 몰라 유지 */
               from { opacity: 0; }
               to { opacity: 1; }
             }
+=======
+>>>>>>> 6906af549a751a80eba9c2d4cedc8849dabf6186
           `}
         </style>
       </div>
